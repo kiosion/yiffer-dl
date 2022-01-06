@@ -16,6 +16,7 @@ if len(argv) < 2:
     exit(1)
 
 url = argv[1]
+#dl = argv[2]
 
 def download_comic(url, DL_LOC):
     # Vars
